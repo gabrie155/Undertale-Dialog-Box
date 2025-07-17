@@ -2,6 +2,8 @@ This addon adds a undertale dialog box that you can use with chat commands.
 
 It was a rewrite of this addon here: https://steamcommunity.com/sharedfiles/filedetails/?id=3363203207
 
+here is the steam version of this addon here: https://steamcommunity.com/sharedfiles/filedetails/?id=3514832468
+
 It has all the sounds aswell
 
 it may or may not have an 2 or 3 easter eggs :v
